@@ -30,7 +30,8 @@
     * 9.1 XX短视频
     * 9.2 XX短视频
 * X1 meeting-recordsinception meeting (yy/mm/dd)
-* X2 KANBAN
+   * Interception Meeting（2019/03/26）
+* X2 KANBAN
 * X3 auditing-records
 * X4 Tech/Work Report学号-title
 * X5 Final Report学号-title小组分工与贡献率说明
